@@ -465,5 +465,15 @@
                 }
             }
         }
-    }
+    },
+    "tags": [
+        {
+            "name": "Books",
+            "description": "Books"
+        },
+        {
+            "name": "Products",
+            "description": "Products"
+        }
+    ]
 }
